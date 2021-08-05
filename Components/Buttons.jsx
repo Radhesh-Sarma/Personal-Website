@@ -9,20 +9,20 @@ const DATA = [
         label: "Github",
     },
     {
-        href: "https://www.linkedin.com/in/radhesh-sarma-a94b5994/",
+        href: "https://www.linkedin.com/in/radhesh-sarma/",
         aria: "Visit my LinkedIn profile",
         icon: <LinkedIn />,
         label: "LinkedIn",
     },
     {
-        href: "https://drive.google.com/file/d/1dmnPb8wnElPAD2hZkoXxRuIrZIUmp-LB/view",
+        href: "https://drive.google.com/file/d/1QwmmPa31MaaEUo8bWiXYkK0G55gdrzfr/view?usp=sharing",
         aria: "Visit Google Drive to view and download my resume",
         icon: <Resume />,
         label: "Resume",
     },
     {
         href: "mailto:radheshsarma29@gmail.com",
-        aria: "Send me an email with this template",
+        aria: "Send me an email",
         icon: <Email />,
         label: "Email",
     }
